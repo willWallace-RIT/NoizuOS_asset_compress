@@ -1,6 +1,6 @@
 # Noizu Compression
 
-See (noizu_compression)[https://github.com/willWallace-RIT/noizu_compression]
+See https://github.com/willWallace-RIT/noizu_compression
 
 
 **Procedural Approximation Compression for Persistent Operating System Assets**
