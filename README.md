@@ -1,5 +1,8 @@
 # Noizu Compression
 
+See (github.com/willWallace-RIT/noizu_compression)[noizu_compression]
+
+
 **Procedural Approximation Compression for Persistent Operating System Assets**
 
 Noizu Compression is an experimental asset compression and reconstruction framework focused on reducing the persistent storage footprint of operating system and application assets through procedural approximation, noise-derived reconstruction, chunk similarity indexing, and contextual regeneration.
